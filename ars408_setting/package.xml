@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>ars408_setting</name>
+  <version>0.0.1</version>
+  <description>The ars408_setting package</description>
+
+  <maintainer email="yoyo@todo.todo">yoyo</maintainer>
+
+  <license>MIT</license>
+  <url type="website">https://github.com/YoYo860224/ars408_ros</url>
+
+  <author email="yoyo@temp.com">yoyo</author>
+  
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>rospy</build_depend>
+  <build_export_depend>rospy</build_export_depend>
+  <exec_depend>rospy</exec_depend>
+
+  <export>
+
+  </export>
+</package>
+
+<!-- For more detail -->
+<!-- http://wiki.ros.org/catkin/package.xml -->
